@@ -5,7 +5,7 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="36" height="36" /> I'm currently learning: 
 
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity)
+![UPython](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity)
 ![Oculus](https://img.shields.io/badge/-Oculus-1C1E20.svg?logo=oculus&style=for-the-badge)
 ![React](https://img.shields.io/badge/-React-7f2fad.svg?logo=react&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript)
