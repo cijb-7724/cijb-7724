@@ -8,8 +8,9 @@
 
 
 
-![a](https://cijb-7724.github.io/cijb-7724/)
+![a](https://cijb-7724.github.io/cijb-7724/#)
 
+<img src="https://cijb-7724.github.io/cijb-7724/#" alt="Animation">
 
 
 
