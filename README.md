@@ -61,15 +61,6 @@
     </a>
 </div>
 
-
-
-<div class="image-container">
-    <a href="#">
-        <img src="pngs/cpp.png" alt="C++">
-        <div class="image-text">C++</div>
-    </a>
-</div>
-
 <style>
     .image-container {
         position: relative;
