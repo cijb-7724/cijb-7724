@@ -5,29 +5,120 @@
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/School.png" alt="School" width="36" height="36" /> NITTC -> TMU
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="36" height="36" /> My Skills: 
-![UPython](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity)
-![Oculus](https://img.shields.io/badge/-Oculus-1C1E20.svg?logo=oculus&style=for-the-badge)
-![React](https://img.shields.io/badge/-React-7f2fad.svg?logo=react&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript)
-![Python](https://img.shields.io/badge/-Python-FFD648.svg?logo=python&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript)
-![Arduino](https://img.shields.io/badge/-Arduino-00619D.svg?logo=arduino&style=for-the-badge)
-![C++](https://img.shields.io/badge/-C++-00619D.svg?logo=c&style=for-the-badge)
 
-<h3 align="left">Languages and Tools:</h3>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
+<div class="image-container">
+    <a href="#">
+        <img src="pngs/brainfuck96.png" alt="Brainfuck">
+        <div class="image-text">Brainfuck</div>
+    </a>
+</div>
+<div class="image-container">
+    <a href="#">
+        <img src="pngs/c.png" alt="c">
+        <div class="image-text">C</div>
+    </a>
+</div>
+<div class="image-container">
+    <a href="#">
+        <img src="pngs/cpp.png" alt="C++">
+        <div class="image-text">C++</div>
+    </a>
+</div>
+<div class="image-container">
+    <a href="#">
+        <img src="pngs/java.png" alt="Java">
+        <div class="image-text">Java</div>
+    </a>
+</div>
+<div class="image-container">
+    <a href="#">
+        <img src="pngs/python.png" alt="Python">
+        <div class="image-text">Python</div>
+    </a>
+</div>
+<div class="image-container">
+    <a href="#">
+        <img src="pngs/haskell.png" alt="Haskell">
+        <div class="image-text">Haskell</div>
+    </a>
+</div>
+<div class="image-container">
+    <a href="#">
+        <img src="pngs/javascript.png" alt="JavaScript">
+        <div class="image-text">JavaScript</div>
+    </a>
+</div>
+<div class="image-container">
+    <a href="#">
+        <img src="pngs/typescript.png" alt="TypeScript">
+        <div class="image-text">TypeScript</div>
+    </a>
+</div>
+<div class="image-container">
+    <a href="#">
+        <img src="pngs/matlab.png" alt="Matlab">
+        <div class="image-text">Matlab</div>
+    </a>
+</div>
 
 
 
-![alt text](pngs/c.png)
-![alt text](pngs/cpp.png)
-![alt text](pngs/java.png)
-![alt text](pngs/python.png)
-![alt text](pngs/haskell.png)
+<div class="image-container">
+    <a href="#">
+        <img src="pngs/cpp.png" alt="C++">
+        <div class="image-text">C++</div>
+    </a>
+</div>
+
+<style>
+    .image-container {
+        position: relative;
+        display: inline-block;
+    }
+
+    .image-text {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        background-color: rgba(0, 0, 0, 0.7);
+        color: #ffffff;
+        padding: 10px;
+        border-radius: 5px;
+        font-family: Arial, sans-serif;
+        font-size: 14px;
+        opacity: 0;
+        animation: floatUp 8s infinite; /* 追加 */
+        animation-delay: 6s; /* 追加 */
+        backdrop-filter: blur(5px);
+    }
+
+    @keyframes floatUp {
+        0% {
+            opacity: 0;
+            transform: translate(-50%, -150%) scale(0.5);
+        }
+        25% {
+            opacity: 0;
+        }
+        50% {
+            opacity: 0.8;
+            transform: translate(-50%, 30%) scale(1);
+        }
+        75% {
+            opacity: 0.8;
+        }
+        100% {
+            opacity: 0;
+            transform: translate(-50%, -150%) scale(0.5);
+        }
+    }
+</style>
+
+
+
+
+
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cijb-7724&layout=compact&show_icons=true&theme=tokyonight" />
