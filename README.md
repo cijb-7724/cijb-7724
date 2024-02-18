@@ -10,10 +10,15 @@
 ![Brainfuck](pngs/brainfuck_green.png)![C](pngs/c.png)![C++](pngs/cpp.png)![Java](pngs/java.png)![Python](pngs/python.png)![Haskell](pngs/haskell.png)
 ![JavaScript](pngs/javascript.png)![TypeScript](pngs/typescript.png)![Matlab](pngs/matlab.png)
 
-
+# 
 [![GitHub Streak](https://streak-stats.demolab.com?user=cijb-7724&theme=tokyonight&hide_border=false&border_radius=8.3&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
-[![](https://raw.githubusercontent.com/cijb-7724/cijb-7724/main/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cijb-7724&layout=compact&show_icons=true&theme=tokyonight" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=cijb-7724&theme=tokyonight&show_icons=ture" />
+</p>
+
+
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FA8072&center=true&vCenter=true&random=true&width=900&height=10&lines=...................................................................)](https://git.io/typing-svg)
