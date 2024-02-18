@@ -7,19 +7,9 @@
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="36" height="36" /> My Skills: 
 
 
+![Brainfuck](pngs/brainfuck96.png)![C](pngs/c.png)![C++](pngs/cpp.png)![Java](pngs/java.png)![Python](pngs/python.png)![Haskell](pngs/haskell.png)
+![JavaScript](pngs/javascript.png)![TypeScript](pngs/typescript.png)![Matlab](pngs/matlab.png)
 
-![a](https://cijb-7724.github.io/cijb-7724/#)
-
-<img src="https://cijb-7724.github.io/cijb-7724/#" alt="Animation">
-
-
-
-
-
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cijb-7724&layout=compact&show_icons=true&theme=tokyonight" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=cijb-7724&theme=tokyonight&show_icons=ture" />
-</p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=cijb-7724&theme=tokyonight&hide_border=false&border_radius=8.3&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
