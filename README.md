@@ -7,7 +7,7 @@
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="36" height="36" /> My Skills: 
 
 
-![Brainfuck](pngs/brainfuck96.png)![C](pngs/c.png)![C++](pngs/cpp.png)![Java](pngs/java.png)![Python](pngs/python.png)![Haskell](pngs/haskell.png)
+![Brainfuck](pngs/brainfuck_green.png)![C](pngs/c.png)![C++](pngs/cpp.png)![Java](pngs/java.png)![Python](pngs/python.png)![Haskell](pngs/haskell.png)
 ![JavaScript](pngs/javascript.png)![TypeScript](pngs/typescript.png)![Matlab](pngs/matlab.png)
 
 
