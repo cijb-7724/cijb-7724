@@ -18,7 +18,9 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=cijb-7724&theme=tokyonight&show_icons=ture" />
 </p>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cijb-7724&theme=tokyonight)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cijb-7724&theme=tokyonight)
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FA8072&center=true&vCenter=true&random=true&width=900&height=10&lines=...................................................................)](https://git.io/typing-svg)
