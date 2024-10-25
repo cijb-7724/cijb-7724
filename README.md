@@ -13,7 +13,7 @@
 # 
 [![GitHub Streak](https://streak-stats.demolab.com?user=cijb-7724&theme=tokyonight&hide_border=false&border_radius=8.3&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
-<p align="left"> 
+<p align="center"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cijb-7724&layout=compact&show_icons=true&theme=tokyonight" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=cijb-7724&theme=tokyonight&show_icons=ture" />
 </p>
